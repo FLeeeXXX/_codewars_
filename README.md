@@ -1,1 +1,1 @@
-[# _codewars_](https://www.codewars.com/users/FLeeeXXX/badges/large)
+![Codewars](https://github.r2v.ch/codewars?user=FLeeeXXX)
